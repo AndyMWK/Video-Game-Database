@@ -1,15 +1,6 @@
 CMPT 135 Assignment 5
 =====================
 
-Names of Team Members
----------------------
-
-(include the full names, SFU email addresses, and SFU student numbers of all
-team members)
-Name : Min Woo (Andy) Kim
-St.# : 301448177
-Email: andy_kim_10@sfu.ca
-
 
 Instructions for Compiling and Running
 --------------------------------------
@@ -63,7 +54,10 @@ In the main and field menu, the selection that the uesr chooses is highlighted.
 
 
 
+Credits
+--------------
 
+Entirety of CMPT 135 at SFU Surrey, Spring 2021
 
 
 
